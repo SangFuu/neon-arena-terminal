@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "Debug",
+      "displayName": "Neon Arena - Debug",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/cmake-build-debug",
+      "cacheVariables": {"CMAKE_BUILD_TYPE": "Debug", "BUILD_TESTING": "ON"}
+    }
+  ],
+  "buildPresets": [{"name": "Debug", "configurePreset": "Debug"}],
+  "testPresets": [{"name": "Debug", "configurePreset": "Debug", "output": {"outputOnFailure": true}}]
+}
