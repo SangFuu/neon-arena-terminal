@@ -4,3 +4,5 @@ cmake-build-*/
 .vscode/
 CMakeUserPresets.json
 *.bmp
+jouer/
+*.exe

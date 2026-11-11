@@ -6,7 +6,7 @@ The game has four waves, contact enemies, shooters and a boss. It lets me explor
 
 ## Play
 
-Open `Jouer.cmd` or `jouer/neon_arena.exe`, then press Enter. Use a terminal at least 75 columns wide and 36 lines high.
+Download `neon-arena-terminal-windows.zip` from the [Releases](https://github.com/SangFuu/neon-arena-terminal/releases) page, extract it, open `Jouer.cmd`, then press Enter. Use a terminal at least 75 columns wide and 36 lines high.
 
 - ZQSD / WASD: movement.
 - Arrow keys: aim and shoot.
