@@ -4,6 +4,10 @@ I created this personal project to play in the Windows terminal. It is a solo C 
 
 The game has four waves, contact enemies, shooters and a boss. It lets me explore a game loop, collisions and keyboard interactions.
 
+![Gameplay](docs/gameplay.gif)
+
+*Recorded from the game's own renderer with a scripted input sequence (the real game runs in the Windows console).*
+
 ## Play
 
 Download `neon-arena-terminal-windows.zip` from the [Releases](https://github.com/SangFuu/neon-arena-terminal/releases) page, extract it, open `Jouer.cmd`, then press Enter. Use a terminal at least 75 columns wide and 36 lines high.
